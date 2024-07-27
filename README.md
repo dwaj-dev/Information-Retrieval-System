@@ -2,6 +2,9 @@
 
 ## Overview
 This project allows you to retrieve information from multiple PDF documents using a combination of Python, LangChain, Streamlit, PaLM2, and FAISS. The system processes PDFs to extract text, create embeddings, and enables conversational retrieval of information.
+![image](https://github.com/user-attachments/assets/4baa2928-5963-41e2-860f-a5340da3d13f)
+![image](https://github.com/user-attachments/assets/8665dd47-1e56-4e8a-b606-46ffa47a301a)
+
 
 ## Features
 - Extracts text from multiple PDF files.
